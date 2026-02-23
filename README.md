@@ -1,4 +1,4 @@
-# SOC Threat Monitoring Lab (Internship-Focused Version)
+# SOC Threat Monitoring Lab 
 
 ## Overview
 
@@ -51,11 +51,11 @@ usage, and PowerShell execution.
 
 ## Dashboard Screenshots
 
-Executive Summary and Authentication Monitoring:
-screenshots/dashboard_overview_top.png
+### Executive Summary and Authentication Monitoring
+![Dashboard Overview - Top](screenshots/dashboard_overview_top.png)
 
-Investigation and Privileged Activity Monitoring:
-screenshots/dashboard_overview_bottom.png
+### Investigation and Privileged Activity Monitoring
+![Dashboard Overview - Bottom](screenshots/dashboard_overview_bottom.png)
 
 ## Skills Demonstrated
 
